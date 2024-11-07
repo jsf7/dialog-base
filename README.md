@@ -4,7 +4,7 @@ Basic Dialog Class
 
 ## Installation
 
-1. Include it in your project
+Include it in your project
 
    ```js
    import { Dialog } from "dialog.js" 
